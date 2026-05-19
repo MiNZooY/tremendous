@@ -8,3 +8,5 @@ sdf
 dfds
 added
 new
+nham nhi 
+viet thu tinh cho dat
