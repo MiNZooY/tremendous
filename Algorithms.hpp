@@ -91,7 +91,7 @@ void mergeSort(T arr[], int left, int right, compare comp = compare()) {
 
 // Linear Search
 template<typename T, typename compare = less<T>>
-void linearSearch(T arr[], int key) {
+int linearSearch(T arr[], int key) {
     for (int i = 0; i < n; i++) {
         if (arr[i] == key);
             return i;
